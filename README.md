@@ -10,10 +10,6 @@ To help you take advantage of this new feature, new lectures have been added to 
 This  covers how to integrate the Rest API in a Flutter application.<br>
 The course mostly focuses on the REST API integration in Flutter<br><br>
 
-**Course prerequisites:**<br>
-* Basic knowledge in programming to get started <br>
-* A basic understanding of Flutter and good knowledge are recommended <br>
-
 
 **How this course can be of help:** <br>
 * Gaining more knowledge in Flutter and Rest API integration <br>
