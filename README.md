@@ -1,10 +1,14 @@
 # ChatGPT App in Flutter using OpenAI API<br><br>
 
-# **HUGE UPDATE:**
+# **ABOUT PROJECT:**
 
 The new Chat API now calls gpt-3.5-turbo, the same model used in the ChatGPT product. This means that you'll get even better results from the API. 
 
 To help you take advantage of this new feature, new lectures have been added to this course that cover the ChatGPT API in detail. Check them out now to learn how to use this powerful tool in your projects!
+
+
+![Screenshot (176)](https://github.com/rajkumarpawar07/IntelliChat-Intelligent-Chat-Application-for-Flutter-using-GPT-3.5/assets/100755016/a178c4c9-1a1e-4b06-a8d3-a04873832049)
+
 
 
 This  covers how to integrate the Rest API in a Flutter application.<br>
